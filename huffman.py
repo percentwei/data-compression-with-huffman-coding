@@ -6,11 +6,11 @@ class Node:
         self.freq = freq
     def isLeft(self):
         return self.father.left == self
-#create nodes建立葉子節點
+#create nodes
 def createNodes(freqs):
     return [Node(freq) for freq in freqs]
 
-#create Huffman-Tree建立Huffman樹
+#create Huffman-Tree
 def createHuffmanTree(nodes):
     queue = nodes[:]
     while len(queue) > 1:
@@ -25,7 +25,7 @@ def createHuffmanTree(nodes):
         queue.append(node_father)
     queue[0].father = None
     return queue[0]
-#Huffman編碼
+#Huffman
 def huffmanEncoding(nodes,root):
     codes = [''] * len(nodes)
     for i in range(len(nodes)):
