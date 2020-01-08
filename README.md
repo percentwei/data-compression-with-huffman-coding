@@ -15,3 +15,4 @@ output.txt
 Type 1 to compress and 2 to decompress:
 2
 Outputting output.txt
+[Reference Code](https://www.itread01.com/content/1546575863.html)
