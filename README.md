@@ -1,4 +1,4 @@
-# data-compression-with-huffman-coding
+# data compression with huffman coding
 ## Compress
 - Type the name of the file to process: William1.txt
 - Type 1 to compress and 2 to decompress: 1
