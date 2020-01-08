@@ -1,6 +1,6 @@
 # data-compression-with-huffman-coding
 ## Compress
-- Type the name of the file to process: filename.txt
+- Type the name of the file to process: Willian.txt
 - Type 1 to compress and 2 to decompress: 1
 - Original bits = 116
 - Compressed bits = 78
