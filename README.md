@@ -9,7 +9,7 @@
 - Saved 52.43% of memory
 - Outputting output.txt
 ------------------------
-Decompress
+### Decompress
 Type the name of the file to process:	
 output.txt
 Type 1 to compress and 2 to decompress:
