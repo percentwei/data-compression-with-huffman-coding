@@ -5,7 +5,7 @@
 - Original bits = 824
 - Compressed bits = 432
 - Saved 52.43% of memory
-###### Outputting output.txt
+## Outputting output.txt
 
 ### Decompress
 - Type the name of the file to process: output.txt
